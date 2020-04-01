@@ -13,3 +13,9 @@ end
 def link
   puts $says
 end
+
+def all_phrases
+  puts $phrase
+  puts $status
+  puts $says
+end
