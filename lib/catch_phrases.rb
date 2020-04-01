@@ -11,5 +11,5 @@ def toadstool
 end
 
 def link
-  puts says
+  puts $says
 end
